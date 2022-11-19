@@ -19,6 +19,7 @@ import 'bootstrap-4-react/dist/bootstrap-4-react';
 // import StockList from './Functional_Based/React_Routing/Stocks/StockList'
 // import StockDetails from './Functional_Based/React_Routing/Stocks/StockDetails'
 import Filter from './Functional_Based/SelectBox/Filter'
+// import StockDetails from './Functional_Based/React_Routing/Stocks/StockDetails'
 
 
 
