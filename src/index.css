@@ -1,0 +1,185 @@
+body{
+ 
+  font-family: "Comic sans MS",sans-serif;
+  background: linear-gradient(45deg,rgb(210, 220, 220), rgb(249, 245, 249));
+}
+
+/*----------- bg or background Styles -----------*/
+.bg-teal.btn-teal{
+  background-color: teal!important;
+}
+
+
+/*  ----------- Text Styles-----------*/
+
+.text-teal{
+  color: teal!important;
+}
+
+
+/*----------- card Styles -----------*/
+
+.card{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin:10px;
+}
+
+
+
+/* -----------  Card-Header Styles-----------*/
+
+.card-header{
+  background: linear-gradient(45deg,rgb(35, 79, 189), rgb(4, 58, 96));
+  
+  color: rgb(232, 240, 230) ;
+} 
+
+.card-header.bg-primary{
+  background: linear-gradient(45deg, rgb(4, 37, 19),rgb(5, 241, 238));
+  
+}
+.card-header.bg-secondary{
+  background: linear-gradient(45deg, rgb(4, 37, 19),rgb(43, 215, 28));
+  
+}
+
+.card-header.custom{
+  background: linear-gradient(45deg, rgb(4, 37, 19),rgb(220, 66, 195));
+ 
+} 
+.card-header.bg-success{
+  background: linear-gradient(45deg, rgb(4, 37, 19),rgb(43, 215, 28));
+}
+.card-header.bg-danger{
+  background: linear-gradient(45deg, rgb(4, 37, 19),rgb(154, 11, 202))
+  
+}
+.card-header.bg-warning{
+  background: linear-gradient(45deg,rgb(4, 37, 19),rgba(219, 69, 10, 0.92))
+  
+}
+.card-header.bg-info{
+  background: linear-gradient(45deg,rgb(4, 37, 19),rgb(227, 239, 8))
+  
+}
+
+/*  ----------- Card-body Styles-----------*/
+.card-body.custom {
+  background: linear-gradient(45deg,rgb(240, 241, 244),rgb(122, 174, 211));
+  align-content: center;
+ 
+  }
+
+.card-body.bg-danger {
+  background: linear-gradient(45deg,rgb(236, 241, 241),rgb(210, 66, 148));
+  align-content: center;
+}
+.card-body.bg-primary{
+  background: linear-gradient(45deg,rgb(5, 241, 238), rgb(131, 196, 160));
+  
+}
+.card-body.bg-secondary{
+  background: linear-gradient(45deg,rgb(43, 215, 28), rgb(139, 207, 169));
+  
+}
+.card-body.bg-success{
+  background: linear-gradient(45deg, rgb(93, 200, 141),rgb(104, 214, 94));
+  
+}
+.card-body.bg-info{
+  background: linear-gradient(45deg,rgba(119, 243, 202, 0.92),rgba(61, 233, 227, 0.92))
+  
+}
+.card-body.bg-warning{
+  background: linear-gradient(45deg,rgba(245, 160, 126, 0.92),rgba(213, 145, 89, 0.92))
+  
+}
+.card-body.rgba-purple-light {
+  background: linear-gradient(45deg,rgb(97, 141, 221),rgb(164, 152, 226));
+  align-content: center;
+ 
+  }
+  .card-body button{
+
+    background-color: rgb(118, 104, 109);
+  }
+  
+/* -----------nav Styles-----------------------*/
+nav{
+  background: linear-gradient(45deg,rgb(3, 158, 86), rgb(4, 37, 19));
+
+}
+nav a{
+  text-decoration: none; 
+}
+
+
+
+
+
+/*  ----------- Button Styles-----------*/
+.btn{
+  background: linear-gradient(45deg,rgb(35, 79, 189), rgb(4, 37, 19));
+  margin:10px;
+}
+.btn.btn-primary{
+  background: linear-gradient(45deg,rgb(39, 142, 5), rgb(4, 37, 19));
+  margin:10px;
+}
+.btn.btn-secondary{
+  background: linear-gradient(45deg,rgb(5, 241, 238), rgb(4, 37, 19));
+  margin:10px;
+}
+.btn.btn-info{
+  background: linear-gradient(45deg,rgb(235, 6, 147), rgb(4, 37, 19));
+  margin:10px;
+}
+.btn.btn-danger{
+  background: linear-gradient(45deg,rgb(248, 7, 7), rgb(4, 37, 19));
+  margin:10px;
+}
+
+/*  ----------- Table Styles-----------*/
+.table thead tr th{
+  font-weight: bold;
+  background-color: darkcyan;
+  color: aliceblue;
+} 
+
+/*  ----------- WebSite Styles-----------*/
+
+.landing-page{
+  background: white url("./assets/card.jpg") no-repeat scroll center;
+  height:100vh;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+.wrapper{
+background-color: rgba(0,0,0,0.5);
+height: 100%;
+}
+
+.about-page{
+  background: white url("./assets/bg1.jpg") no-repeat scroll center;
+  height:100vh;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+
+/*  ----------- some other Styles-----------*/
+.dad{  color: rgba(162, 27, 216, 0.833);
+}
+
+
+.son{  color: rgb(247, 239, 19);
+}
+
+.list-group-item{
+  background: linear-gradient(45deg, rgb(82, 183, 128),rgb(39, 142, 5));
+}
+
+
+
+
