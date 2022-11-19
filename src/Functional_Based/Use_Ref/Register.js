@@ -30,11 +30,16 @@ let updateCheck=(e)=>{
                                 </div>
                                 
                             </form>
+                            
                         </div>
                     </div>
                  </div>
             </div>
             </section>
+            <React.Fragment>
+
+                <h1>This is added to git Repository</h1>
+            </React.Fragment>
         </React.Fragment>
 
 
