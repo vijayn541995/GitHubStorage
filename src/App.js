@@ -18,6 +18,8 @@ import 'bootstrap-4-react/dist/bootstrap-4-react';
 // import EmployeeDetails from './Functional_Based/React_Routing/Employees/EmployeeDetails'
 // import StockList from './Functional_Based/React_Routing/Stocks/StockList'
 // import StockDetails from './Functional_Based/React_Routing/Stocks/StockDetails'
+// import StockDetails from './Functional_Based/React_Routing/Stocks/StockDetails'
+
 import Filter from './Functional_Based/SelectBox/Filter'
 
 
